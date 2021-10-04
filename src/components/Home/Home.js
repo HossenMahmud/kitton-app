@@ -22,7 +22,7 @@ const Home = () => {
                     </div>
                     <div className='row g-4'>
                         {
-                            services.map(service => <DisplayService
+                            services.slice(3).map(service => <DisplayService
                                 key={service.id}
                                 service={service}
                             ></DisplayService>)
