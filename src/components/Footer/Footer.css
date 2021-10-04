@@ -1,0 +1,16 @@
+.footer-image{
+    background-image: url('http://labartisan.net/demo/kitton/assets/images/footer/footer-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer-item{
+    text-align: left;
+}
+.footer-item h4{
+    font-weight: bold;
+}
+.footer-item p {
+    color: #707070;
+    font-size: 16px;
+}

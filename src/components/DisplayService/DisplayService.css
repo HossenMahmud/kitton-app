@@ -1,0 +1,22 @@
+.course-item{
+    /* border:10px solid red; */
+    background-color: white;
+    border-radius: 15px;
+}
+.course-img img{
+    height: 250px;
+}
+.course-details{
+    text-align: left;
+}
+.course-details p{
+    color: #707070;
+}
+.course-details h4{
+    color: #0e2c53;
+    font-weight: bold;
+}
+.course-details p span{
+    color: #ff5200;
+    font-weight: bold;
+}

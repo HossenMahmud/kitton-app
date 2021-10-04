@@ -1,0 +1,30 @@
+[
+    {
+        "id": 101,
+        "img": "https://image.freepik.com/free-vector/big-isolated-cartoon-character-illustration-cute-kids-reading-book-learning_1150-37570.jpg",
+        "className": "Art And Color Management",
+        "courseFee": 12.5,
+        "instructor": "Joly Smith"
+    },
+    {
+        "id": 102,
+        "img": "https://image.freepik.com/free-vector/happy-cute-little-kids-boy-girl-read-book_97632-2063.jpg",
+        "className": "Music And Performance",
+        "courseFee": 10,
+        "instructor": "Mrs. Labonno"
+    },
+    {
+        "id": 103,
+        "img": "https://image.freepik.com/free-photo/school-friends_1098-15925.jpg",
+        "className": "Religion And History",
+        "courseFee": 9,
+        "instructor": "Robot Smith"
+    },
+    {
+        "id": 104,
+        "img": "https://image.freepik.com/free-photo/children-write-notebooks-with-pen_94347-731.jpg",
+        "className": "Art Class",
+        "courseFee": 13,
+        "instructor": "Stave Raindton"
+    }
+]
