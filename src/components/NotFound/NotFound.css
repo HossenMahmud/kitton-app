@@ -1,0 +1,26 @@
+/* .notFound-bg{
+    background-image: url('https://image.freepik.com/free-photo/smiling-happy-cute-asian-child-wearing-mask-protect-her-from-virus-covid-19-hiding-blank-white-board-isolated-yellow-wall_74952-1238.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+} */
+.notFount-content h1{
+    font-size: 180px;
+    font-weight: bolder;
+}
+.notFount-content h2{
+    color: #192c9d;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.fist4{
+    color: green;
+}
+.zero{
+    color: #92278f;
+}
+.secend4{
+    color:#ff5200;
+}

@@ -5,7 +5,7 @@ const DisplayService = (props) => {
     const { className, img, courseFee, instructor } = props.service;
     return (
         <div className='col-lg-4'>
-            <div className='h-100 p-4  course-item'>
+            <div className='h-100 p-4 course-item'>
                 <div className="course-img">
                     <img className='img-fluid' src={img} alt="" />
                 </div>

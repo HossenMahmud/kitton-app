@@ -24,6 +24,9 @@ const Header = () => {
                             <Link to="/service" className="items">
                                 <li>Service</li>
                             </Link>
+                            <Link to="/teacher" className="items">
+                                <li>Teacher</li>
+                            </Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

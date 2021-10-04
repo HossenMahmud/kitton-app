@@ -11,6 +11,8 @@ import {
 import Home from './components/Home/Home';
 import About from './components/About/About';
 import Services from './components/Services/Services';
+import NotFound from './components/NotFound/NotFound';
+import Teacher from './components/Teacher/Teacher';
 
 function App() {
   return (
@@ -29,6 +31,12 @@ function App() {
           </Route>
           <Route exact path='/service'>
             <Services></Services>
+          </Route>
+          <Route exact path='/teacher'>
+            <Teacher></Teacher>
+          </Route>
+          <Route path='*'>
+            <NotFound></NotFound>
           </Route>
         </Switch>
         <Footer></Footer>

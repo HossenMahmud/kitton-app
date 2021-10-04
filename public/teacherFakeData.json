@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1001,
+        "img": "https://image.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg",
+        "name": "Steve Jobs",
+        "gender": "Male",
+        "des": "Samet consectetuer apiscing elitsed diam nonumy nibh euismod nciduns awesome team mumber",
+        "sub": "English"
+    },
+    {
+        "id": 1002,
+        "img": "https://image.freepik.com/free-photo/beautiful-asian-muslim-lady-casual-wear-working-using-laptop-modern-new-normal-office_7861-2975.jpg",
+        "name": "Smitha Barina",
+        "gender": "Female",
+        "des": "Samet consectetuer apiscing elitsed diam nonumy nibh euismod nciduns awesome team mumber",
+        "sub": "Math"
+    },
+    {
+        "id": 1003,
+        "img": "https://image.freepik.com/free-photo/smiling-confident-businesswoman-posing-with-arms-folded_1262-20950.jpg",
+        "name": "Inniya Smoth",
+        "gender": "Female",
+        "des": "Samet consectetuer apiscing elitsed diam nonumy nibh euismod nciduns awesome team mumber",
+        "sub": "Music"
+    },
+    {
+        "id": 1004,
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-man-eyeglasses_171337-4853.jpg",
+        "name": "Clbain Kibbi",
+        "gender": "Male",
+        "des": "Samet consectetuer apiscing elitsed diam nonumy nibh euismod nciduns awesome team mumber",
+        "sub": "Religion"
+    },
+    {
+        "id": 1006,
+        "img": "https://image.freepik.com/free-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg",
+        "name": "Zunayad Bishu",
+        "gender": "Male",
+        "des": "Samet consectetuer apiscing elitsed diam nonumy nibh euismod nciduns awesome team mumber",
+        "sub": "History"
+    },
+    {
+        "id": 1005,
+        "img": "https://image.freepik.com/free-photo/ecstatic-white-girl-beret-posing-with-amazement-elegant-caucasian-female-model-t-shirt-standing-red-wall_197531-11462.jpg",
+        "name": "Hridika Pandday",
+        "gender": "Female",
+        "des": "Samet consectetuer apiscing elitsed diam nonumy nibh euismod nciduns awesome team mumber",
+        "sub": "Art"
+    }
+]

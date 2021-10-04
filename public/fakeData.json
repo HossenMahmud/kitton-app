@@ -26,5 +26,40 @@
         "className": "Art Class",
         "courseFee": 13,
         "instructor": "Stave Raindton"
+    },
+    {
+        "id": 105,
+        "img": "https://image.freepik.com/free-photo/little-funny-girl-with-tablet-green-studio-wall_155003-29255.jpg",
+        "className": "Alphabet Matching Class",
+        "courseFee": 12.99,
+        "instructor": "Rubart Mean"
+    },
+    {
+        "id": 106,
+        "img": "https://image.freepik.com/free-photo/classmates-working-together_1098-2588.jpg",
+        "className": "English Language Class",
+        "courseFee": 15.99,
+        "instructor": "Smith Borison"
+    },
+    {
+        "id": 107,
+        "img": "https://image.freepik.com/free-vector/boy-doing-math-with-abacus_1308-31022.jpg",
+        "className": "Mathematices Class",
+        "courseFee": 13.99,
+        "instructor": "Abul Bari"
+    },
+    {
+        "id": 108,
+        "img": "https://image.freepik.com/free-photo/happy-baby-playing-with-toy-blocks-kindergarten_211139-3572.jpg",
+        "className": "Exercise and Health",
+        "courseFee": 11,
+        "instructor": "Kabul Khan"
+    },
+    {
+        "id": 109,
+        "img": "https://image.freepik.com/free-photo/childs-playing-with-constructor-blocks-class_109285-8126.jpg",
+        "className": "Intelligence Grow class",
+        "courseFee": 13,
+        "instructor": "Malkuba Joren"
     }
 ]

@@ -1,0 +1,24 @@
+.teacher-bg{
+    background-color: #fcf1e1;
+}
+.teacher-item{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+.teacher-info{
+    text-align: left;
+    margin-left: 20px;
+}
+.teacher-img img{
+    border-radius: 10px;
+    width: 400px;
+    height: 180px;
+}
+.teacher-btn{
+    padding: 15,15px;
+    border-radius: 2px;
+    background-color:white;
+    border:3px solid #8dc63f;
+    color:dc3545;
+}
