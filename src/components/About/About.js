@@ -11,8 +11,8 @@ import counter3 from '../../images/counter3.png';
 
 const About = () => {
     return (
-        <div className='about-bg p-5'>
-            <div className="container p-5">
+        <div className='about-bg p-md-5'>
+            <div className="container py-5">
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="about-img">
@@ -63,9 +63,9 @@ const About = () => {
                     </div>
                 </div>
             </div>
-            <div className="container p-5">
+            <div className="container py-5">
                 <div className="row">
-                    <div className="col-lg-4">
+                    <div className="col-lg-4 mb-sm-2">
                         <div className="counter-item count1">
                             <div className="counter-img">
                                 <img src={counter1} alt="" />
@@ -74,7 +74,7 @@ const About = () => {
                             <p>Students Enrolled</p>
                         </div>
                     </div>
-                    <div className="col-lg-4">
+                    <div className="col-lg-4 mb-sm-2">
                         <div className="counter-item count2">
                             <div className="counter-img">
                                 <img src={counter2} alt="" />

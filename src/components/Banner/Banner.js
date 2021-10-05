@@ -2,8 +2,8 @@ import React from 'react';
 import './Banner.css';
 const Banner = () => {
     return (
-        <div className='banner-image p-5'>
-            <div className="row p-5">
+        <div className='banner-image p-md-5 p-sm-3'>
+            <div className="row p-lg-5 p-sm-0">
                 <div className="col-lg-5 col-md-8 col-sm-12">
                     <div className="banner-content">
                         <h2>Our School is Best</h2>
